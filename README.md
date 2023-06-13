@@ -11,6 +11,9 @@ El código está escrito en Python y requiere las siguientes bibliotecas:
 - seaborn
 - google.colab
 
+```bash
+pip install pandas matplotlib seaborn google.colab
+```
 ## Conjunto de datos
 
 El conjunto de datos `melb_data.csv` contiene las siguientes columnas:
