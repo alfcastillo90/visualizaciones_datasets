@@ -10,3 +10,29 @@ El código está escrito en Python y requiere las siguientes bibliotecas:
 - matplotlib
 - seaborn
 - google.colab
+
+## Conjunto de datos
+
+El conjunto de datos `melb_data.csv` contiene las siguientes columnas:
+
+- Suburb
+- Address
+- Rooms
+- Type
+- Price
+- Method
+- SellerG
+- Date
+- Distance
+- Postcode
+- Bedroom2
+- Bathroom
+- Car
+- Landsize
+- BuildingArea
+- YearBuilt
+- CouncilArea
+- Lattitude
+- Longtitude
+- Regionname
+- Propertycount
